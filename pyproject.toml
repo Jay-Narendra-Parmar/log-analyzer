@@ -2,5 +2,7 @@
 name = "log-analyzer"
 version = "0.1.0"
 description = "CLI tool that analyzes web server logs"
+readme = "README.md"
 requires-python = ">=3.12"
+license = "MIT"
 dependencies = []
